@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  margin-top: 0;
+  width: 100%;
+}
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+.card {
+  margin-left: 400px;
+  text-align: center;
+
+  border: none;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  background-color: blue;
+}
+img {
+  height: 350px;
+  align-items: center;
+  justify-content: center;
+}
+h2 {
+  margin: 0;
+}
